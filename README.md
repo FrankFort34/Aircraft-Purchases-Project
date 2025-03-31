@@ -21,6 +21,14 @@ After examining the aviation accident data set, as well as considering the limit
 ## Limitations
 The data set used included aviation accidents only, requiring further research into aircraft costs. 
 The primary limitation is that a complete safety evaluation cannot be completed with the data, as the data set includes only aviation accidents and does not include other relevant aircraft information, such as: average fuel cost, average travel distance, maintenance costs, inspection and repair frequency, etc. 
+
 ## Recommendations
 I recommend the company consider the Cessna 560 and the Bombardier BD100 1A10 aircraft for transporting C-Suite and VIPs in a jet. Additionally, I'd also recommend the Sikorsky S-76B helicopter as an alternative to the jets.
+
+## Next Steps
+Further analysis that includes model specific flight data and safety would be beneficial. Research should address the areas of limitation stated above, including average travel distances, frequency of repair and maintenace, etc. 
+
+## For More Information
+Please see the full analysis in the Jupyter Notebook or review this presentation. 
+For additional information, contact Frank Fortunati and fortunatifrank@gmail.com
 
