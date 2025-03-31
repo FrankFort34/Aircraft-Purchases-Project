@@ -14,13 +14,6 @@ My first goal was to filter out irrelevant or unhelp data from the data set - I 
 
 # Exploratory Data Analysis
 With both the airplane and helicopter data sets, I broke down the accidents by degrees of severity (Destroyed, Substantial, and Minor) and sorted them by manufacturers. From there, I analyzed specific models with minor accidents. For the airplane data set, I took a closer look at models from Cessna, Piper, Raytheon, Beech, and Bombardier, which I then compared. I focused then on the models with the lowest accident rate: the Cessna 560, the Bombardier BD100 1A10, and the Piper PA-34-24OT. I performed a similar analysis for the helicopter data set and determined a suitable recommendation, the Sikorsky S-76A
-
-
-
-
-![Aircraft Accident Comparison](https://github.com/user-attachments/assets/8aacf187-db31-4b02-b336-da62c9e4df36)
-
-
  
 # Conclusion
 After examining the aviation accident data set, as well as considering the limitations of this dataset, as described below, I would recommend the company consider small or medium sized business jets for purchase or charter. I also recommend the company examine executive business helicopters as an alternative to jets.
