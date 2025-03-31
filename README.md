@@ -7,6 +7,8 @@ The company is looking to purchase or charter aircraft for the purpose of transp
 # Data Understanding
 I utilized a data set from the National Transportation Safety Board. The data set was comprised of aviation accident data from 1962 to 2023, and included civil aviation accidents and selected incidents in the US and international waters. The data contained 90,348 rows of accidents spread across 31 columns, such as accident dates, aircraft make and model, injury and aircraft damage severity, and phase of flight when the accident occured. the data set was limited in that key information used for determining overall aircraft safety was not included, such as: distance traveled, average flight time, frequency of inspection, maintenance, and repairs, and accident rate per x number of flights flown. 
 
+Data set: https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
+
 ## Data Preparation
 My first goal was to filter out irrelevant or unhelp data from the data set - I did this by filtering out any rows of accidents that were missing information in crucially important fields, such as injury severity, aircraft damage, and aircraft type - this reduced the data from more than 90 thousands rows to 26 thousand. As safety of the aircraft was paramount, I checked the accident rate by number of engines, and concluded all single engine aircraft should be ruled out, as well as any amateur built aircraft. Following this, I included only aircraft that were used for the stated purpose of “Business” or “Executive/Corporate”. Using these filters and parameters, I created two data sets. The first dataset included airplanes, while the second included on helicopters.
 
