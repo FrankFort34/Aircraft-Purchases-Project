@@ -1,7 +1,7 @@
 # Aircraft Purchase Analysis
 Author: Frank Fortunati
 
-# Business Understanding
+# Overview and Business Problem 
 The company is looking to purchase or charter aircraft for the purpose of transporting C-suite and company VIPs efficiently and comfortably. The aircraft may also double as a useful tool for impressing high value company clients. The challenge was to determine which aircraft would be suitable for these goals while also providing a optimal degree of safety.
 
 # Data Understanding
