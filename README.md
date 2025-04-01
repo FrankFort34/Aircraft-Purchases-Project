@@ -30,6 +30,7 @@ Further analysis that includes model specific flight data and safety would be be
 
 ## Repository Structure
 Please see the full analysis in the Jupyter Notebook, linked below, or review this presentation: [Aircraft Purchase Analysis.pdf](https://github.com/user-attachments/files/19539026/Aircraft.Purchase.Analysis.pdf)
+[Notebook.ipynb]
 
 
 
