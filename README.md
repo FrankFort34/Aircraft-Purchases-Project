@@ -28,11 +28,11 @@ I recommend the company consider the Cessna 560 and the Bombardier BD100 1A10 ai
 ## Next Steps
 Further analysis that includes model specific flight data and safety would be beneficial. Research should address the areas of limitation stated above, including average travel distances, frequency of repair and maintenace, etc. 
 
-## For More Information
+## Repository Structure
 Please see the full analysis in the Jupyter Notebook, linked below, or review this presentation: [Aircraft Purchase Analysis.pdf](https://github.com/user-attachments/files/19539026/Aircraft.Purchase.Analysis.pdf)
-For additional information, contact Frank Fortunati at fortunatifrank@gmail.com
 
-https://github.com/FrankFort34/Aircraft-Purchases-Project/commit/5ae0815bccfcea1297875b6ca8a049975b9de576
+
+
 
 
 
